@@ -1,0 +1,58 @@
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+pandas>=1.3.0
+
+# Signal processing
+mne>=1.0.0
+pyedflib>=0.1.30
+scikit-signal>=0.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine learning (for future enhancements)
+scikit-learn>=1.0.0
+
+# Data handling
+h5py>=3.6.0
+tables>=3.7.0
+
+# Reporting and export
+reportlab>=3.6.0
+jinja2>=3.0.0
+weasyprint>=54.0
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+pytest-mock>=3.6.0
+
+# Development tools
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Configuration and logging
+pyyaml>=5.4.0
+python-dotenv>=0.19.0
+
+# Progress tracking
+tqdm>=4.62.0
+
+# Command line interface
+click>=8.0.0
+argparse>=1.4.0
+
+# Data validation
+pydantic>=1.8.0
+
+# Performance optimization
+numba>=0.56.0
+joblib>=1.1.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0 
